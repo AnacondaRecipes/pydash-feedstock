@@ -1,9 +1,2 @@
-channels:
-  - https://staging.continuum.io/prefect/fs/msal-feedstock/pr3/d251615
-  - https://staging.continuum.io/prefect/fs/msal_extensions-feedstock/pr2/1d02e5b
-  - https://staging.continuum.io/prefect/fs/azure-identity-feedstock/pr2/10da9cc
-  - https://staging.continuum.io/prefect/fs/opencensus-feedstock/pr2/97a1e09
-  - https://staging.continuum.io/prefect/fs/opencensus-ext-azure-feedstock/pr2/9543cba
-
 upload_channels:
   - sfe1ed40
